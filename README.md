@@ -1,10 +1,13 @@
-# keras-yolo3
+
+# Feature Selection Algorithm of YOLO3 in Python and Keras
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 ## Introduction
 
-A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
+The original code is a Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K). 
+Based on this, I designed a feature selection algorithm based on YOLOv3. 
+Detailed process and results can be seen in the McGill_University_Thesis.pdf.
 
 
 ---
