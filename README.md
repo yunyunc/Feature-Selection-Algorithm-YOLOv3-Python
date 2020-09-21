@@ -9,7 +9,9 @@ The original code is a Keras implementation of YOLOv3 (Tensorflow backend) inspi
 
 Based on this, I designed a feature selection algorithm based on YOLOv3. I changed code in YOLOv3 to calculate and output the Activation level of some filters. After this, filters are extracted to be compared based on their means and variances on the datasets. 
 
-Detailed process and results can be seen in the McGill_University_Thesis.pdf.
+After calculating the results on datasets of filters, 9 useful flters are selected in YOLOv3 and compared with 9 randomly selected flters. 
+
+Detailed process and results can be seen in McGill_University_Thesis.pdf.
 
 
 ---
