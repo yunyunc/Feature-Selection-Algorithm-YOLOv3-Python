@@ -5,7 +5,7 @@
 
 ## Introduction
 
-The original code is a Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K). 
+The original code is a Keras and Tensorflow implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K). 
 
 Based on this, I designed a feature selection algorithm based on YOLOv3. I changed code in YOLOv3 to calculate and output the Activation level of some filters. After this, filters are extracted to be compared based on their means and variances on the datasets. 
 
