@@ -11,7 +11,8 @@ Based on this, I designed a feature selection algorithm based on YOLOv3. I chang
 
 After calculating the results on datasets of filters, 9 useful flters are selected in YOLOv3 and compared with 9 randomly selected flters. 
 
-Detailed process and results can be seen in McGill_University_Thesis.pdf.
+Detailed process and results can be seen in another repository of mine(https://github.com/yunyunc/Feature_Selection_Algorithm_Experiment-Results) and in the file McGill_University_Thesis.pdf.
+
 
 
 ---
